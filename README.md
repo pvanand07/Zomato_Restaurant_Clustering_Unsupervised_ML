@@ -15,8 +15,8 @@ Another critical aspect of the project involves clustering Zomato's vast restaur
 The insights generated from customer sentiment analysis and restaurant clustering will contribute to solving several business cases. For customers, it will assist in locating the best restaurants in their locality based on peer reviews. Simultaneously, for Zomato, the analysis will pinpoint areas of improvement and growth opportunities, allowing the company to refine its services and cater to evolving customer preferences.
 
 # Insights from Sentiment Analysis
-- ![sentiment-analysis-postive](https://raw.githubusercontent.com/pvanand07/Zomato_Restaurant_Clustering_Unsupervised_ML/master/sentiment-analysis-positive.png)
-- ![sentiment-analysis-negative](https://raw.githubusercontent.com/pvanand07/Zomato_Restaurant_Clustering_Unsupervised_ML/master/sentiment-analysis-negative.png)
+- ![sentiment-analysis-postive](https://raw.githubusercontent.com/pvanand07/Zomato_Restaurant_Clustering_Unsupervised_ML/master/output-images/sentiment-analysis-positive.png)
+- ![sentiment-analysis-negative](https://raw.githubusercontent.com/pvanand07/Zomato_Restaurant_Clustering_Unsupervised_ML/master/output-images/sentiment-analysis-negative.png)
 
  Insights about potential impact on business:
 
@@ -36,8 +36,8 @@ The insights generated from customer sentiment analysis and restaurant clusterin
    
 # Insights from Clustering Analysis
 
-- ![Scatterplot of Cost vs Average Ratings with Top 3 Cuisines Labeled](https://raw.githubusercontent.com/pvanand07/Zomato_Restaurant_Clustering_Unsupervised_ML/master/Scatterplot%20of%20Cost%20vs%20Average%20Ratings%20with%20Top%203%20Cuisines%20Labeled.png)
-- ![Cuisine Distribution Across Clusters](https://raw.githubusercontent.com/pvanand07/Zomato_Restaurant_Clustering_Unsupervised_ML/master/cuisine-distribution.png)
+- ![Scatterplot of Cost vs Average Ratings with Top 3 Cuisines Labeled](https://raw.githubusercontent.com/pvanand07/Zomato_Restaurant_Clustering_Unsupervised_ML/master/output-images/Scatterplot-cuisines-Labeled.png)
+- ![Cuisine Distribution Across Clusters](https://raw.githubusercontent.com/pvanand07/Zomato_Restaurant_Clustering_Unsupervised_ML/master/output-images/cuisine-distribution.png)
 
 - ## Cluster Analysis
 - Cluster 1 has low cost and, a high ratio of ratings to cost. This cluster has a variety of cuisines, such as desserts, continental, biryani, and Chinese, which may indicate that these restaurants **offer a good balance of quality, price, and diversity**.
